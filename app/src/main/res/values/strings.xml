@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">2048</string>
+    <string name="score">当前分数 : 0</string>
+    <string name="highest_score">历史最高分 : 0</string>
+    <string name="button_replay">重新开始</string>
+</resources>
+

@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Game_2048_test" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/backgroundColorBiggerThan2048</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/backgroundColor512</item>
+        <item name="colorSecondaryVariant">@color/backgroundColor256</item>
+        <item name="colorOnSecondary">@color/backgroundColorBiggerThan2048</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
